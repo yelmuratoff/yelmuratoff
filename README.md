@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## 📊 GitHub Stats:
+<p>
+  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=K1yoshiSho&theme=city_lights&count_private=true&hide_border=true&hide_title=true&show_icons=true" />
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1yoshiSho&layout=compact&langs_count=6&hide=sass,makefile,shell,mustache&hide_border=true&theme=city_lights" />
+</p> 
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+
 <!--
 **K1yoshiSho/K1yoshiSho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
