@@ -1,12 +1,12 @@
-# Yelaman Yelmuratov
+# 👋🏻 Hi there, my name is Yelaman Yelmuratov
 
 ## Flutter Developer
 
 📍 **Location:** Astana, Kazakhstan
 
-📱 **Contact:** [Telegram](YourTelegramLinkHere)
+📱 **Contact:** [Telegram](https://t.me/yelmuratoff)
 
-🔗 **LinkedIn:** [YourLinkedInProfile](YourLinkedInLinkHere)
+🔗 **LinkedIn:** [Yelaman Yelmuratov](https://www.linkedin.com/in/yelmuratoff/)
 
 ### Summary
 Experienced Flutter Developer with over 2 years of experience in building commercial mobile applications. Specialized in using BLoC and Provider for state management, proficient with Drift (SQL) for local data storage, and Firebase for cloud services. Committed to clean architecture and efficient documentation, with a proven record of reducing app size by 35% through performance optimization.
@@ -17,7 +17,7 @@ Experienced Flutter Developer with over 2 years of experience in building commer
   - Led integration of a mobile app with EDMS, developed a real-time employee tracking module, and implemented face recognition using Google ML Kit. Achieved a 35% application size reduction.
 
 - **Egistic - Agritech SuperApp, Astana, Kazakhstan** (Oct 2022 - Mar 2023)
-  - Developed the AgroGIS module, an analytical Dashboard for farm management, and improved system analytics, leading to a 40% decrease in reported bugs.
+  - Developed the AgroGIS module, an analytical Dashboard for farm management, and improved system analytics, leading to a 70% decrease in reported bugs.
 
 - **WLFF, Astana, Kazakhstan** (Nov 2021 - Oct 2022)
   - Mentored over 100 students, led over 10 projects, focusing on Flutter development and project management.
@@ -36,9 +36,7 @@ Experienced Flutter Developer with over 2 years of experience in building commer
 
 - **ASK Hackday:** Developed a mobile app, recognized by the Alliance of Students of Kazakhstan (Certification ID: 009-667, June 2022).
 
-### Projects
-
-For a detailed look at my projects and contributions, please visit my [GitHub](YourGitHubLinkHere) and [Portfolio](YourPortfolioLinkHere).
+- Projects: [click](https://drive.google.com/drive/folders/1lUbs6Qmdq62D0mEj6_x2IsSmdt0tN8YG?usp=sharing)
 
 ---
 
