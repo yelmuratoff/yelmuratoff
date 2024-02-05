@@ -11,17 +11,6 @@
 ### Summary
 Experienced Flutter Developer with over 2 years of experience in building commercial mobile applications. Specialized in using BLoC and Provider for state management, proficient with Drift (SQL) for local data storage, and Firebase for cloud services. Committed to clean architecture and efficient documentation, with a proven record of reducing app size by 35% through performance optimization.
 
-### Work Experience
-
-- **Quant Tech, Astana, Kazakhstan** (Feb 2023 - Present)
-  - Led integration of a mobile app with EDMS, developed a real-time employee tracking module, and implemented face recognition using Google ML Kit. Achieved a 35% application size reduction.
-
-- **Egistic - Agritech SuperApp, Astana, Kazakhstan** (Oct 2022 - Mar 2023)
-  - Developed the AgroGIS module, an analytical Dashboard for farm management, and improved system analytics, leading to a 70% decrease in reported bugs.
-
-- **WLFF, Astana, Kazakhstan** (Nov 2021 - Oct 2022)
-  - Mentored over 100 students, led over 10 projects, focusing on Flutter development and project management.
-
 ### Skills
 
 - **Languages:** Russian (Advanced), Kazakh (Native), English (Intermediate)
