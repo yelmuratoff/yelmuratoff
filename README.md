@@ -8,9 +8,6 @@
 
 🔗 **LinkedIn:** [Yelaman Yelmuratov](https://www.linkedin.com/in/yelmuratoff/)
 
-### Summary
-Experienced Flutter Developer with over 2 years of experience in building commercial mobile applications. Specialized in using BLoC and Provider for state management, proficient with Drift (SQL) for local data storage, and Firebase for cloud services. Committed to clean architecture and efficient documentation, with a proven record of reducing app size by 35% through performance optimization.
-
 ### Skills
 
 - **Languages:** Russian (Advanced), Kazakh (Native), English (Intermediate)
