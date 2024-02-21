@@ -35,10 +35,6 @@ Feel free to connect with me for collaboration or any inquiries related to Flutt
   <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1yoshiSho&layout=compact&langs_count=6&hide=sass,makefile,shell,mustache&hide_border=true&theme=city_lights" />
 </p> 
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-
 <!--
 **K1yoshiSho/K1yoshiSho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
