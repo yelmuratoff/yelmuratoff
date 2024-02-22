@@ -3,10 +3,9 @@
 ## Flutter Developer
 
 📍 **Location:** Astana, Kazakhstan
-
 📱 **Contact:** [Telegram](https://t.me/yelmuratoff)
-
-🔗 **LinkedIn:** [Yelaman Yelmuratov](https://www.linkedin.com/in/yelmuratoff/)
+🔗 **LinkedIn:** [Yelaman Yelmuratov](https://www.linkedin.com/in/yelmuratoff/)  
+📫 **Mail** [yelamanyelmuratov@gmail.com](mailto:yelamanyelmuratov@gmail.com)
 
 ### Skills
 
