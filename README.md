@@ -2,10 +2,13 @@
 
 ## Flutter Developer
 
-📍 **Location:** Astana, Kazakhstan  
-📱 **Contact:** [Telegram](https://t.me/yelmuratoff)  
-🔗 **LinkedIn:** [Yelaman Yelmuratov](https://www.linkedin.com/in/yelmuratoff/)  
-📫 **Mail** [yelamanyelmuratov@gmail.com](mailto:yelamanyelmuratov@gmail.com&body=Привет,_я_по_поводу?subject=Я_из_Github)  
+📍 **Location:** 🇰🇿 Astana, Kazakhstan  
+📫 **How to reach me:** [yelamanyelmuratov@gmail.com](mailto:yelamanyelmuratov@gmail.com&body=Привет,_я_по_поводу?subject=Я_из_Github)  
+
+<p>
+<a href="https://www.linkedin.com/in/yelmuratoff/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+<a href="https://t.me/yelmuratoff" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-234C69?style=for-the-badge&logo=telegram&logoColor=white" /></a> 
+</p>
 
 ### Skills
 
@@ -21,7 +24,7 @@
 
 - **ASK Hackday:** Developed a mobile app, recognized by the Alliance of Students of Kazakhstan (Certification ID: 009-667, June 2022).
 
-- Projects: [click](https://drive.google.com/drive/folders/1lUbs6Qmdq62D0mEj6_x2IsSmdt0tN8YG?usp=sharing)
+- 🚀 **Projects**: [go](https://drive.google.com/drive/folders/1lUbs6Qmdq62D0mEj6_x2IsSmdt0tN8YG?usp=sharing)
 
 ---
 
