@@ -1,4 +1,4 @@
-# 👋🏻 Hi there, my name is Yelaman Yelmuratov
+# <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi there, my name is Yelaman Yelmuratov
 
 ## Flutter Developer
 
