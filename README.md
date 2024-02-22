@@ -5,7 +5,7 @@
 📍 **Location:** Astana, Kazakhstan  
 📱 **Contact:** [Telegram](https://t.me/yelmuratoff)  
 🔗 **LinkedIn:** [Yelaman Yelmuratov](https://www.linkedin.com/in/yelmuratoff/)  
-📫 **Mail** [yelamanyelmuratov@gmail.com](https://mailto:yelamanyelmuratov@gmail.com)  
+📫 **Mail** [yelamanyelmuratov@gmail.com](mailto:yelamanyelmuratov@gmail.com&body=Привет,_я_по_поводу?subject=Я_из_Github)  
 
 ### Skills
 
