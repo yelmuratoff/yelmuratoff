@@ -1,4 +1,4 @@
-# <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi there, my name is Yelaman
+# <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi there
 
 ## Flutter Developer
 
@@ -13,7 +13,7 @@
 ### Skills
 
 - **Languages:** Russian (Advanced), Kazakh (Native), English (Intermediate)
-- **Technical Skills:** Dart, Git, Firebase, HMS, BLoC, Provider, Drift, SQL, Google ML Kit, Analytics (GA 4, Appmetrica, Amplitude), REST APIs, and more.
+- **Technical Skills:** Dart, Git, Firebase, HMS, BLoC, Riverpod, Provider, Drift, SQL, Google ML Kit, Analytics (GA 4, Appmetrica, Amplitude), REST APIs, MVVM, TDD and more.
 
 ### Education
 
@@ -24,7 +24,7 @@
 
 - **ASK Hackday:** Developed a mobile app, recognized by the Alliance of Students of Kazakhstan (Certification ID: 009-667, June 2022).
 
-- 🚀 **Projects**: [go](https://drive.google.com/drive/folders/1lUbs6Qmdq62D0mEj6_x2IsSmdt0tN8YG?usp=sharing)
+- 🚀 **Projects**: [clickable link](https://drive.google.com/drive/folders/1lUbs6Qmdq62D0mEj6_x2IsSmdt0tN8YG?usp=sharing)
 
 ---
 
