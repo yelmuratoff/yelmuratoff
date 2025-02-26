@@ -11,8 +11,6 @@
 </p>
 
 ### Skills
-
-- **Languages:** Russian (Advanced), Kazakh (Native), English (Intermediate)
 - **Technical Skills:** Dart, Git, Firebase, HMS, BLoC, Riverpod, Provider, Drift, SQL, Google ML Kit, Analytics (GA 4, Appmetrica, Amplitude), REST APIs, MVVM, TDD and more.
 
 ### Education
