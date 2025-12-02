@@ -37,8 +37,9 @@ I maintain a few packages to help with daily development tasks:
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yelmuratoff/">LinkedIn</a> •
-  <a href="https://t.me/yelmuratoff">Telegram</a> •
-  <a href="https://yelmuratov.vercel.app">Portfolio</a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/yelmuratoff/)
+[![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/yelmuratoff)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://yelmuratov.vercel.app)
+[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:yelamanyelmuratov@gmail.com)
