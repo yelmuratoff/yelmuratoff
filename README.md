@@ -1,6 +1,6 @@
 # Yelaman Yelmuratov
 
-**Senior Flutter Developer** based in Astana 🇰🇿
+**Flutter Developer** based in Astana 🇰🇿
 
 Currently leading mobile development at **Astana Hub**.
 I focus on mobile architecture, tests, CI/CD pipelines, and maintaining open-source libraries for the Flutter ecosystem.
