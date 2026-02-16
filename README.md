@@ -1,6 +1,6 @@
 # Yelaman Yelmuratov
 
-**Flutter Developer** based in Astana 🇰🇿
+**Software Engineer** based in Astana 🇰🇿
 
 Currently leading mobile development at **Astana Hub**.
 I focus on mobile architecture, tests, CI/CD pipelines, and maintaining open-source libraries for the Flutter ecosystem.
@@ -27,6 +27,7 @@ I maintain a few packages to help with daily development tasks:
 * **Architecture:** Clean Architecture, Multi-module (Melos)
 * **Testing:** Unit, Widget, Golden Tests, Approval Tests
 * **Tools:** GitHub Actions, Fastlane, Shorebird
+* **Programming Languages:** Python, Typescript, Java
 
 ---
 
