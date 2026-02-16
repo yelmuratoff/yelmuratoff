@@ -17,6 +17,7 @@ I maintain a few packages to help with daily development tasks:
 | **[Analytics Gen](https://github.com/yelmuratoff/analytics_gen)** | A code generator for type-safe analytics events. | [![Pub](https://img.shields.io/pub/v/analytics_gen.svg)](https://pub.dev/packages/analytics_gen) |
 | **[Approval Tests](https://github.com/approvals/ApprovalTests.Dart)** | A library for snapshot testing objects and UI. | [![Pub](https://img.shields.io/pub/v/approval_tests.svg)](https://pub.dev/packages/approval_tests) |
 | **[Draggable Panel](https://github.com/yelmuratoff/draggable_panel)** | A floating UI widget for overlays. | [![Pub](https://img.shields.io/pub/v/draggable_panel.svg)](https://pub.dev/packages/draggable_panel) |
+| **[Flart](https://www.figma.com/community/plugin/1419440139622021656)** | Figma plugin that generates design variables, colors, styles as Dart code. | [![Plugin](https://img.shields.io/badge/Figma-Plugin-blueviolet?logo=figma)](https://www.figma.com/community/plugin/1419440139622021656) |
 
 ---
 
