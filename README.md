@@ -1,4 +1,4 @@
-# Yelaman Yelmuratov
+# Yelaman Yelmurat
 
 **Software Engineer** based in Astana 🇰🇿
 
